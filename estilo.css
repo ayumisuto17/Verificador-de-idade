@@ -1,0 +1,32 @@
+body {
+    background: rgb(160, 205, 235);
+    font: 15pt Arial;
+    
+}
+
+header {
+    color:white;
+    text-align: center;
+    text-shadow: -1px -1px 0px #FFF;
+
+}
+section {
+    background: rgb(248, 245, 229);
+    border-radius: 10px; /* para ficar com as bordas arredondas, raio da borda*/
+    padding: 15px; /* para darespaço dentro da borda*/
+    width: 500px; /*largura fixa*/
+    margin: auto; /*centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363); /*sombreado*/
+
+
+}
+
+div {
+   text-align: center;
+}
+footer {
+     color:white;
+     text-align: center;
+     font-style: italic;
+
+}
